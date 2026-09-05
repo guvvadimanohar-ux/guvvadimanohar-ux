@@ -54,7 +54,7 @@ data analytics and building practical projects that solve real-world problems.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guvvadimanohar-ux&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guvvadimanohar-ux&theme=github_dark)
 
 ---
 
@@ -63,14 +63,15 @@ data analytics and building practical projects that solve real-world problems.
 ![GitHub Streak](https://streak-stats.demolab.com/?user=guvvadimanohar-ux&theme=dark&hide_border=true)
 
 ---
-
 ## 🧑‍💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guvvadimanohar-ux&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guvvadimanohar-ux&theme=github_dark)
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guvvadimanohar-ux&theme=github_dark)
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Currently Working With
 
 - Python & OOP
 - SQL & Database Management
