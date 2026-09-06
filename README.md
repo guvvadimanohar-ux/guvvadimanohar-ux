@@ -79,6 +79,7 @@ data analytics and building practical projects that solve real-world problems.
 - Power BI
 - AI Engineering
 - Data Structures & Algorithms
+- Linux
 
 ---
 
@@ -92,4 +93,4 @@ data analytics and building practical projects that solve real-world problems.
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile !! See You Again !!
